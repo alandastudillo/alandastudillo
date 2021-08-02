@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Hi there 👋](images/brain_icon_example.jpg)
+[//]: ![Hi there 👋](images/brain_icon_example.jpg)
 
+<img src="images/brain_icon_example.jpg" alt="drawing" width="200"/>
 
 **Welcome to my GitHub page!**
 
