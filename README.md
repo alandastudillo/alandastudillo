@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hi there 👋](images/brain_icon_example.png)
+![Hi there 👋](images/brain_icon_example.jpg)
 
 
 **Welcome to my GitHub page!**
