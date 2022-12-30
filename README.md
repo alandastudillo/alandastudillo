@@ -7,7 +7,7 @@
 **Welcome to my GitHub page!**
 
 # Aland Astudillo
-## Machine Learning Engineer / Research Engineer / Data scientist 
+## Data Scientist / Machine Learning Engineer / Research Engineer /
 ## 🐍 Python Developer 🐍
 
 * [Portfolio Website](https://alandastudillo.github.io/AlandPortfolio/)
