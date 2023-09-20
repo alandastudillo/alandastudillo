@@ -12,7 +12,7 @@
 
 * [Portfolio Website](https://alandastudillo.github.io/AlandPortfolio/)
 * [CV / Resume](https://github.com/alandastudillo/alandastudillo.github.io/blob/main/files/CV_short_engAA20220827_AUS_DEV.pdf) 
-* [LinkedIn](https://www.linkedin.com/in/aland-astudillo-contreras-93a404a2/)
+* [LinkedIn](https://www.linkedin.com/in/aland-astudillo/)
 * [More about me](https://braindynamicslab.org/aland-astudillo/) 
 
 Connect with me on these platforms:
