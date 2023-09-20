@@ -20,7 +20,7 @@ Connect with me on these platforms:
 <a href="https://twitter.com/Alienzote1"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" 
 alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
  
-<a href="https://www.linkedin.com/in/aland-astudillo-contreras-93a404a2/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" 
+<a href="https://www.linkedin.com/in/aland-astudillo/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" 
 alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 
 based on https://medium.com/@importdata example
