@@ -7,9 +7,20 @@
 **Welcome to my GitHub page!**
 
 # Aland Astudillo
-## Data Scientist / Machine Learning Engineer / Research Engineer /
-## 🐍 Python Developer 🐍
+## Data Scientist / Machine Learning Engineer / Research Engineer 
 
+## Techs & Tools
+
+* 🐍 Python 🐍
+* HTML/CSS/JS
+* Fluttern
+* MATLAB
+* SQL
+* MongoDB
+* Neo4j
+* AWS
+
+## Links
 * [Portfolio Website](https://alandastudillo.github.io/AlandPortfolio/)
 * [CV / Resume](https://github.com/alandastudillo/alandastudillo.github.io/blob/main/files/) 
 * [LinkedIn](https://www.linkedin.com/in/aland-astudillo/)
